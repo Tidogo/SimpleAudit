@@ -1,0 +1,13 @@
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\obj\Debug\SimpleAudit.Main.resources
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\obj\Debug\SimpleAudit.Properties.Resources.resources
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\obj\Debug\SimpleAudit.csproj.GenerateResource.Cache
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\bin\Debug\SimpleAudit.exe.config
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\bin\Debug\SimpleAudit.exe
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\bin\Debug\SimpleAudit.pdb
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\bin\Debug\EntityFramework.dll
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\bin\Debug\EntityFramework.xml
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\obj\Debug\SimpleAudit.exe
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\obj\Debug\SimpleAudit.pdb
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SimpleAudit\SimpleAudit\SimpleAudit\obj\Debug\SimpleAudit.csprojResolveAssemblyReference.cache
