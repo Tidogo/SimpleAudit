@@ -1,2 +1,2 @@
 # SimpleAudit
-A streamlined degree auditing program.
+A streamlined degree auditing program coded in C#.
